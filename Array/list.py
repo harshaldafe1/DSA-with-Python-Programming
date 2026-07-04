@@ -86,6 +86,7 @@ List Methods:
 10. copy()
 11. reverse()
 
+
 """
 
 # # # # list.append(item) - add new item at end of list
@@ -201,7 +202,6 @@ List Methods:
 
 # queue.popleft()
 # print(queue)
-
 
 # nesting of list
 # marks = [15,12,16,35]
